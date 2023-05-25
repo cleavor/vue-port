@@ -2,8 +2,6 @@
     <div>
         <hr class="border-1 my-8 border-gray-400 sm:w-4/12 mx-auto">
         <div class="text-center my-4 dark:text-white flex items-center justify-center">
-            Programmer at <a href="http://raion.ub.ac.id/" target="_blank"
-                class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600">Raion Community</a><br>
             Creator of <a href="https://top.gg/bot/1108289840665079898" target="_blank"
                 class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600">Bronya</a>
         </div>
