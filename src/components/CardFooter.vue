@@ -5,6 +5,10 @@
             Creator of <a href="https://top.gg/bot/1108289840665079898" target="_blank"
                 class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600">Bronya</a>
         </div>
+        <div class="text-center my-4 dark:text-white flex items-center justify-center">
+            Programmer of <a href="http://raion.ub.ac.id" target="_blank"
+                class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600">Raion</a>
+        </div>
         <div class="text-center">
             <a href="https://www.instagram.com/jotar_210/" target="_blank"
                 class="m-1 p-1 text-gray-600 text-2xl hover:text-blue-600 dark:text-gray-400"><font-awesome-icon
